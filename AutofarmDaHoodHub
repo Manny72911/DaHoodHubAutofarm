@@ -1,2 +1,2 @@
-setclipboard("https://discord.gg/4WmTuq2MFy") then
-   plr:Kick("This autofarm is shut down, there is another server (my friends) you can use a autofarm gui, the discord, it has been copyed to clipboard thanks by: draxe#3575 :D")
+game.Players.LocalPlayer:Kick('Hey there! Seems like your trying to use Da Hood Hub Autofarm, well since my friend said it was ruining his script ofc as me being the caring friend i shut it down, his discord is copyed to the clickboard and jooin up.')
+setclipbaord("https://discord.gg/4WmTuq2MF")
